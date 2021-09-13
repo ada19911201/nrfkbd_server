@@ -1,0 +1,13 @@
+{
+	"prettier.useTabs": true,
+	"eslint.enable": true,
+	"eslint.run": "onType",
+	"files.eol": "\n",
+	"licenser.license": "MIT",
+	"licenser.author": "bubao",
+	"licenser.projectName": "keyboard-builder-server",
+	"eggHelper.serverPort": 61560,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	}
+}

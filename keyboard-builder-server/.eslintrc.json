@@ -1,0 +1,37 @@
+{
+	"env": {
+		"node": true,
+		"commonjs": true,
+		"es6": true
+	},
+	"globals": {
+		"Atomics": "readonly",
+		"SharedArrayBuffer": "readonly"
+	},
+	"extends": [
+		"standard",
+		"eslint-config-egg",
+		"prettier",
+		"plugin:node/recommended",
+		"eslint:recommended"
+	],
+	"plugins": ["standard", "prettier"],
+	"rules": {
+		"prettier/prettier": "error",
+		"semi": [0, "always"],
+		"quotes": [2, "double"],
+		"no-multiple-empty-lines": "error",
+		"no-console": "off",
+		"no-var": "error",
+		"no-template-curly-in-string": "off",
+		"node/no-deprecated-api": "off",
+		"camelcase": "off",
+		"no-bitwise": "off",
+		"no-case-declarations": "off",
+		"no-new": "off",
+		"new-cap": "off",
+		"no-unmodified-loop-condition": "off",
+		"no-loop-func": "off",
+		"prefer-promise-reject-errors": "off"
+	}
+}

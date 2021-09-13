@@ -1,0 +1,1479 @@
+
+/* hind-regular */
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: regular;
+	src: url('//lib.baomitu.com/fonts/hind/hind-regular.eot'); /* IE9 Compat Modes */
+	src: local('Hind'), local('Hind-Normal'),
+		 url('//lib.baomitu.com/fonts/hind/hind-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/hind/hind-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-regular.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/hind/hind-regular.svg#Hind') format('svg'); /* Legacy iOS */
+  }
+	
+  /* hind-300 */
+  @font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 300;
+	src: url('//lib.baomitu.com/fonts/hind/hind-300.eot'); /* IE9 Compat Modes */
+	src: local('Hind'), local('Hind-Normal'),
+		 url('//lib.baomitu.com/fonts/hind/hind-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/hind/hind-300.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-300.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-300.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/hind/hind-300.svg#Hind') format('svg'); /* Legacy iOS */
+  }
+	
+  /* hind-500 */
+  @font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 500;
+	src: url('//lib.baomitu.com/fonts/hind/hind-500.eot'); /* IE9 Compat Modes */
+	src: local('Hind'), local('Hind-Normal'),
+		 url('//lib.baomitu.com/fonts/hind/hind-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/hind/hind-500.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-500.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-500.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/hind/hind-500.svg#Hind') format('svg'); /* Legacy iOS */
+  }
+	
+  /* hind-700 */
+  @font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 700;
+	src: url('//lib.baomitu.com/fonts/hind/hind-700.eot'); /* IE9 Compat Modes */
+	src: local('Hind'), local('Hind-Normal'),
+		 url('//lib.baomitu.com/fonts/hind/hind-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/hind/hind-700.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-700.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-700.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/hind/hind-700.svg#Hind') format('svg'); /* Legacy iOS */
+  }
+	
+  /* hind-600 */
+  @font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 600;
+	src: url('//lib.baomitu.com/fonts/hind/hind-600.eot'); /* IE9 Compat Modes */
+	src: local('Hind'), local('Hind-Normal'),
+		 url('//lib.baomitu.com/fonts/hind/hind-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/hind/hind-600.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-600.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/hind/hind-600.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/hind/hind-600.svg#Hind') format('svg'); /* Legacy iOS */
+  }
+	
+/* lato-regular */
+@font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: regular;
+	src: url('//lib.baomitu.com/fonts/lato/lato-regular.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Normal'),
+		 url('//lib.baomitu.com/fonts/lato/lato-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-regular.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-regular.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-100 */
+  @font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 100;
+	src: url('//lib.baomitu.com/fonts/lato/lato-100.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Normal'),
+		 url('//lib.baomitu.com/fonts/lato/lato-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-100.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-100.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-100.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-100.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-100italic */
+  @font-face {
+	font-family: 'Lato';
+	font-style: italic;
+	font-weight: 100;
+	src: url('//lib.baomitu.com/fonts/lato/lato-100italic.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Italic'),
+		 url('//lib.baomitu.com/fonts/lato/lato-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-100italic.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-100italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-100italic.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-300 */
+  @font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 300;
+	src: url('//lib.baomitu.com/fonts/lato/lato-300.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Normal'),
+		 url('//lib.baomitu.com/fonts/lato/lato-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-300.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-300.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-300.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-300.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-300italic */
+  @font-face {
+	font-family: 'Lato';
+	font-style: italic;
+	font-weight: 300;
+	src: url('//lib.baomitu.com/fonts/lato/lato-300italic.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Italic'),
+		 url('//lib.baomitu.com/fonts/lato/lato-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-300italic.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-300italic.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-italic */
+  @font-face {
+	font-family: 'Lato';
+	font-style: italic;
+	font-weight: regular;
+	src: url('//lib.baomitu.com/fonts/lato/lato-italic.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Italic'),
+		 url('//lib.baomitu.com/fonts/lato/lato-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-italic.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-italic.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-italic.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-700 */
+  @font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+	src: url('//lib.baomitu.com/fonts/lato/lato-700.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Normal'),
+		 url('//lib.baomitu.com/fonts/lato/lato-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-700.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-700.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-700.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-700.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-700italic */
+  @font-face {
+	font-family: 'Lato';
+	font-style: italic;
+	font-weight: 700;
+	src: url('//lib.baomitu.com/fonts/lato/lato-700italic.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Italic'),
+		 url('//lib.baomitu.com/fonts/lato/lato-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-700italic.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-700italic.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-900 */
+  @font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 900;
+	src: url('//lib.baomitu.com/fonts/lato/lato-900.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Normal'),
+		 url('//lib.baomitu.com/fonts/lato/lato-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-900.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-900.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-900.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-900.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+	
+  /* lato-900italic */
+  @font-face {
+	font-family: 'Lato';
+	font-style: italic;
+	font-weight: 900;
+	src: url('//lib.baomitu.com/fonts/lato/lato-900italic.eot'); /* IE9 Compat Modes */
+	src: local('Lato'), local('Lato-Italic'),
+		 url('//lib.baomitu.com/fonts/lato/lato-900italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('//lib.baomitu.com/fonts/lato/lato-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-900italic.woff') format('woff'), /* Modern Browsers */
+		 url('//lib.baomitu.com/fonts/lato/lato-900italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('//lib.baomitu.com/fonts/lato/lato-900italic.svg#Lato') format('svg'); /* Legacy iOS */
+  }
+
+body, html  {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-size: 100%;
+	color: #fff;
+	background:#2b2727;
+}
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.container {
+	width: 100%;
+	position: absolute;
+	top: 35%;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 300;
+}
+
+h3 {
+	color: #eee;
+	font-weight: 100;
+}
+
+h5 {
+	color:#eee;
+	font-weight:300;
+}
+
+a,
+a:hover {
+	text-decoration: none;
+	color: #ddd;
+}
+
+
+h2 {
+	font-family: Hind;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #ffffff;
+	margin: 0;
+	display: inline-block;
+	text-align: right;
+	vertical-align: bottom;
+}
+
+h3 {
+	font-family: Hind;
+	font-size: 0.9rem;
+	font-weight: 500;
+	color: #ffffff;
+	margin: auto;
+	margin-bottom: 0.3rem;
+	text-align: left;
+	width: 100%;
+	max-width: 500px;
+}
+
+h4 {
+	font-family: Hind;
+	font-size: 1rem;
+	font-weight: 500;
+	color: #ffffff;
+	display: inline;
+	vertical-align: middle;
+}
+
+h5 {
+	font-family: Hind;
+	font-size: 0.9rem;
+	font-weight: 400;
+	color: #ffffff;
+	display: block;
+	text-align: center;
+}
+
+h6 {
+	font-family: Hind;
+	font-size: 1.2rem;
+	font-weight: 500;
+	color: #d10606;
+	margin: auto;
+	margin-bottom: 0.3rem;
+	text-align: center;
+	width: 100%;
+	max-width: 500px;
+}
+
+a {
+	color: #cafffe;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #cafff5;
+}
+
+button {
+	display: inline-block;
+	max-width: 500px;
+	margin: auto;
+	outline: none;
+	border: none;
+	border-radius: .3em;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.25em 0 rgba(0, 0, 0, 0.25), 0 0.25em 0.25em rgba(0, 0, 0, 0.05);
+	color: #ffffff;
+	background: #3498db;
+	cursor: pointer;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	padding: .5em 1.5em .75em;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.25);
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+button:hover {
+	background: #ff4646 !important;
+}
+
+button:active {
+	outline: none;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2), inset 0 2px 0 rgba(255, 255, 255, 0.1), inset 0 0.25em 0.5em rgba(0, 0, 0, 0.05);
+	margin-top: .25em;
+	padding-bottom: .5em;
+}
+
+button:disabled {
+	background: #566b7f !important;
+	cursor: initial;
+}
+
+button.light {
+	background: #844f8ee0;
+	color: #ffffff;
+}
+
+button.light:hover {
+	background: #2fe4c0 !important;
+}
+
+button.light:disabled {
+	background: #b3b3b3 !important;
+	color: #ffffff !important;
+	cursor: initial;
+}
+
+button.block {
+	display: block;
+	width: 100%;
+	background: #a78da68f !important;
+}
+.block-btn{
+	background:#a78da68f !important;
+}
+button.small {
+	line-height: 1.7rem;
+	padding: 0 0.6rem;
+	font-size: 0.7rem;
+	font-weight: 500;
+	box-sizing: border-box;
+	vertical-align: middle;
+	background: #777474;
+}
+
+button.small:active {
+	margin-top: 0em;
+	padding-bottom: 0em;
+}
+
+
+textarea {
+	outline: none;
+	background: #ffffff;
+	border: 1px solid #f0f0f0;
+	border-radius: 0.2rem;
+	padding: 0.5rem;
+	font-family: Hind;
+	font-size: 0.8rem;
+	box-sizing: border-box;
+	text-align: left;
+	resize: none;
+}
+
+input[type="text"] {
+	display:inline-block;
+	outline:none;
+	background:#ffffff;
+	border:1px solid #dddddd;
+	border-radius:0.4rem;
+	padding: 0.4rem 1.8rem 0.4rem 0.5rem;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.15em 0 rgba(0, 0, 0, 0.25), 0 0.15em 0.15em rgba(0, 0, 0, 0.05);
+	font-family:Lato;
+	font-size:0.9rem;
+	vertical-align:middle;
+	box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+	display: none;
+}
+
+input[type="checkbox"] + label:before {
+	content: '';
+	display :inline-block;
+	width: 0.8rem;
+	height: 0.8rem;
+	background: #ffffff;
+	vertical-align: middle;
+	border: 1px solid #dddddd;
+	border-radius: 0.2rem;
+	margin-right: 0.3rem;
+	margin-bottom: 0.1rem;
+	cursor: pointer;
+}
+
+input[type="checkbox"]:checked + label:before {
+	content: '\2713'; /* Check mark. */
+	color: #2c3e50;
+	font-size: 0.8rem;
+	line-height: 1rem;
+	text-align: center;
+}
+
+select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	background-image: url(../images/dropdown.png);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #ffffff;
+	font-family: Lato;
+	font-size: 0.9rem;
+	border: 1px solid #dddddd;
+	outline: none;
+	border-radius: 0.4rem;
+	padding: 0.4rem 1.8rem 0.4rem 0.5rem;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.15em 0 rgba(0, 0, 0, 0.25), 0 0.15em 0.15em rgba(0, 0, 0, 0.05);
+	vertical-align: middle;
+	margin: 0;
+	color: #444444;
+    position: relative;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.clear:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.numberbox {
+	display: inline-block;
+}
+
+.numberbox button {
+	width: 2rem;
+	height: 2rem;
+	box-sizing: border-box;
+}
+
+.numberbox input {
+	display: inline-block;
+	outline: none;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	border-radius: 0.2rem;
+	padding: 0.4rem 0.5rem;
+	font-family: Lato;
+	font-size: 0.9rem;
+	vertical-align: middle;
+	width: 2rem;
+	text-align: center;
+	margin: 0 0.2rem;
+	box-sizing: border-box;
+	height: 2rem;
+}
+
+.help {
+	display: inline-block;
+}
+
+.help-icon {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 1rem;
+	color: #0f718a;
+	margin-left: 0.8rem;
+	cursor: help;
+}
+
+.help-content {
+	position: absolute;
+	margin-left: 1rem;
+	margin-top: 0.6rem;
+	font-family: Hind;
+	font-size: 0.8rem;
+	text-align: left;
+	color: #ffffff;
+	background: #a5a5a55e;
+	border: 1px solid #ddddddc7;
+	padding: 0.3rem 0.5rem;
+	border-radius:0.3rem;
+	pointer-events: none;
+	max-width: 300px;
+	display: none;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.help-content strong {
+	font-weight: 600;
+}
+
+.help-icon:hover + .help-content {
+	display: inline-block;
+}
+
+.toggle {
+	display:inline-block;
+	max-width: 500px;
+	margin: auto;
+	outline: none;
+	border-radius: 1px;
+	font-family: Lato;
+	cursor: pointer;
+	background: #1abc9c;
+	border: 1px solid #ffffffb5;
+	color: #ffffff;
+	line-height: 1.7rem;
+	padding: 0 0.6rem;
+	font-size: 0.7rem;
+	box-sizing: border-box;
+	vertical-align: baseline;
+}
+
+.toggle + .toggle {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	margin-left: -1px;
+}
+
+.toggle:hover {
+	background: #2fe4c0 !important;
+}
+
+.toggle:active {
+	background: #ffffff;
+}
+
+.toggle:disabled {
+	background: #ffffff;
+	color: #888888;
+	cursor: initial;
+}
+
+.toggle.enabled {
+	font-weight: 600;
+	color: #030303;
+	background-color: #ffff5c
+}
+
+
+.header {
+	font-family: Hind;
+	font-size: 1.6rem;
+	font-weight: 600;
+	text-align: center;
+	padding: 2rem;
+	color: #2c3e50;
+}
+
+.kle {
+	width: 500px;
+	height: 200px;
+	margin: auto;
+	display: block;
+	margin-bottom: 0.3rem;
+}
+
+
+.display-wrapper {
+	text-align: center;
+}
+
+.display-wrapper button {
+	line-height:1.9rem;
+}
+
+.display {
+	position: relative;
+	margin: auto;
+	background: #5a3333;
+	outline: none;
+	border: none;
+	border-radius: 1.0em;
+	padding: .5rem .0rem 0.4rem 0.0rem;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.55em 0 rgba(0, 0, 0, 0.25), 0 0.25em 0.25em rgba(0, 0, 0, 0.05);
+}
+
+
+.display.valid {
+	border-color: #002e3c;
+}
+
+.display-inner {
+	position: absolute;
+	top: 7px;
+	left: 7px;
+}
+/* KEY normal */
+.display-key {
+	position: absolute;
+	cursor: pointer;
+}
+
+.display-key-block {
+	position: absolute;
+}
+
+.display-key-block-inner-background {
+	position: absolute;
+	display: block;
+	background: #56563e;
+	top: 2px;
+	left: 2px;
+	right: 2px;
+	bottom: 2px;
+	border-radius: 4px;
+}
+
+.display-key-block-inner {
+	position: absolute;
+	display: block;
+	background: #2d2d29;
+	top: 5px;
+	left: 7px;
+	right: 7px;
+	bottom: 9px;
+	border-radius: 7px;
+	z-index: 1;
+}
+
+.display-key:hover .display-key-block-inner {
+	background: #ffe6e6;
+}
+
+.display-key:hover .display-key-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key.select2 .display-key-block-inner {
+	background: #ffa6a6;
+}
+
+.display-key.select2 .display-key-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key.select1 .display-key-block-inner {
+	top:5px;
+	left: 6px;
+	right: 6px;
+	bottom: 8px;
+	border-radius: 6px;
+	background: #9a6161;
+}
+
+.display-key.select1 .display-key-block-inner-background {
+	background: #e0a600;;
+}
+
+/* KEY Color1 */
+.display-key2 {
+	position: absolute;
+	cursor: pointer;
+}
+
+.display-key2-block {
+	position: absolute;
+}
+
+.display-key2-block-inner-background {
+	position: absolute;
+	display: block;
+	background: #154a3996;
+	top: 2px;
+	left: 2px;
+	right: 2px;
+	bottom: 2px;
+	border-radius: 4px;
+}
+
+.display-key2-block-inner {
+	position: absolute;
+	display: block;
+	background: #067364;
+	top: 5px;
+	left: 7px;
+	right: 7px;
+	bottom: 9px;
+	border-radius: 7px;
+	z-index: 1;
+}
+
+.display-key2:hover .display-key2-block-inner {
+	background: #ffe6e6;
+}
+
+.display-key2:hover .display-key2-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key2.select2 .display-key2-block-inner {
+	background: #ffa6a6;
+}
+
+.display-key2.select2 .display-key2-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key2.select1 .display-key2-block-inner {
+	top:5px;
+	left: 6px;
+	right: 6px;
+	bottom: 8px;
+	border-radius: 6px;
+	background: #ffb9b9;
+}
+
+.display-key2.select1 .display-key2-block-inner-background {
+	background: #ff7777;
+}
+
+/* KEY Color2 */
+.display-key3 {
+	position: absolute;
+	cursor: pointer;
+}
+
+.display-key3-block {
+	position: absolute;
+}
+
+.display-key3-block-inner-background {
+	position: absolute;
+	display: block;
+	background:#c56a6a;
+	top: 2px;
+	left: 2px;
+	right: 2px;
+	bottom: 2px;
+	border-radius: 4px;
+}
+
+.display-key3-block-inner {
+	position: absolute;
+	display: block;
+	background: #d80808;
+	top: 5px;
+	left: 7px;
+	right: 7px;
+	bottom: 9px;
+	border-radius: 7px;
+	z-index: 1;
+}
+
+.display-key3:hover .display-key3-block-inner {
+	background: #ffe6e6;
+}
+
+.display-key3:hover .display-key3-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key3.select2 .display-key3-block-inner {
+	background: #ffa6a6;
+}
+
+.display-key3.select2 .display-key3-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key3.select1 .display-key3-block-inner {
+	top:5px;
+	left: 6px;
+	right: 6px;
+	bottom: 8px;
+	border-radius: 6px;
+	background: #ffb9b9;
+}
+
+.display-key3.select1 .display-key3-block-inner-background {
+	background: #ff7777;
+}
+/* KEY Color3 */
+.display-key4 {
+	position: absolute;
+	cursor: pointer;
+}
+
+.display-key4-block {
+	position: absolute;
+}
+
+.display-key4-block-inner-background {
+	position: absolute;
+	display: block;
+	background:#40dfaa;
+	top: 2px;
+	left: 2px;
+	right: 2px;
+	bottom: 2px;
+	border-radius: 4px;
+}
+
+.display-key4-block-inner {
+	position: absolute;
+	display: block;
+	background: #2ebacc79;
+	top: 5px;
+	left: 7px;
+	right: 7px;
+	bottom: 9px;
+	border-radius: 7px;
+	z-index: 1;
+}
+
+.display-key4:hover .display-key4-block-inner {
+	background: #ffe6e6;
+}
+
+.display-key4:hover .display-key4-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key4.select2 .display-key4-block-inner {
+	background: #ffa6a6;
+}
+
+.display-key4.select2 .display-key4-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key4.select1 .display-key4-block-inner {
+	top:5px;
+	left: 6px;
+	right: 6px;
+	bottom: 8px;
+	border-radius: 6px;
+	background: #ffb9b9;
+}
+
+.display-key4.select1 .display-key4-block-inner-background {
+	background: #ff7777;
+}
+/* KEY Color4 */
+.display-key5 {
+	position: absolute;
+	cursor: pointer;
+}
+
+.display-key5-block {
+	position: absolute;
+}
+
+.display-key5-block-inner-background {
+	position: absolute;
+	display: block;
+	background:#4184db;
+	top: 2px;
+	left: 2px;
+	right: 2px;
+	bottom: 2px;
+	border-radius: 5px;
+}
+
+.display-key5-block-inner {
+	position: absolute;
+	display: block;
+	background: #344f79;
+	top: 5px;
+	left: 7px;
+	right: 7px;
+	bottom: 9px;
+	border-radius: 7px;
+	z-index: 1;
+}
+
+.display-key5:hover .display-key5-block-inner {
+	background: #ffe6e6;
+}
+
+.display-key5:hover .display-key5-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key5.select2 .display-key5-block-inner {
+	background: #ffa6a6;
+}
+
+.display-key5.select2 .display-key5-block-inner-background {
+	background: #ff6262;
+}
+
+.display-key5.select1 .display-key5-block-inner {
+	top:5px;
+	left: 6px;
+	right: 6px;
+	bottom: 8px;
+	border-radius: 6px;
+	background: #ffb9b9;
+}
+
+.display-key5.select1 .display-key5-block-inner-background {
+	background: #ff7777;
+}
+.display-pad {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-radius: 4px;
+	background: #ff0000;
+	z-index: 1;
+	margin-top: -3px;
+	margin-left: -3px;
+	pointer-events: none;
+}
+
+.display-wire {
+	position: absolute;
+	height: 2px;
+	z-index: 1;
+	-webkit-transform-origin: 0 0.5px;
+	-moz-transform-origin: 0 0.5px;
+	-ms-transform-origin: 0 0.5px;
+	transform-origin: 0 0.5px;
+	pointer-events: none;
+}
+
+.display-wire-row {
+	background: #dd9907;
+}
+
+.display-wire-col {
+	background:#6d419c;
+}
+
+.display-wire-label {
+	position: absolute;
+	font-family: Hind;
+	font-size: 0.8rem;
+	font-weight: 500;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.display-wire-label.row {
+	color: #acf9ff;
+}
+
+.display-wire-label.col {
+	color: #ffca5c;
+}
+
+
+.display-keycode {
+	position: absolute;
+}
+
+.display-keycode-block {
+	position: absolute;
+	display: block;
+	top: 5px;
+	left: 10px;
+	right: 10px;
+	bottom: 7px;
+	z-index: 1;
+	font-family: Hind;
+	font-size: 1.1rem;
+	font-weight:650;
+	line-height: 3rem;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	pointer-events: none;
+	color:#588298;
+}
+
+
+.display-keycode2 {
+	position: absolute;
+}
+
+.display-keycode2-block {
+	position: absolute;
+	display: block;
+	top: 5px;
+	left: 10px;
+	right: 10px;
+	bottom: 7px;
+	z-index: 1;
+	font-family: Hind;
+	font-size: 1.2rem;
+	font-weight:bold;
+	line-height: 3rem;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	pointer-events: none;
+	color:#ffff8a;
+}
+
+.display-keycode3 {
+	position: absolute;
+}
+
+.display-keycode3-block {
+	position: absolute;
+	display: block;
+	top: 5px;
+	left: 10px;
+	right: 10px;
+	bottom: 7px;
+	z-index: 1;
+	font-family: Hind;
+	font-size: 1.2rem;
+	font-weight:bold;
+	line-height: 3rem;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	pointer-events: none;
+	color:#2f8196;
+}
+
+
+.panes-wrapper {
+	width: 100%;
+	max-width: 800px;
+	padding: 1rem;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+.panes {
+	background: #1e313c;;
+	border: 6px solid #708590;
+	border-radius: 1.2rem;
+}
+
+.panes-tabs {
+	padding: 0 0.5rem 0.5rem 0.5rem;
+	background: #000000;
+	border-radius: 0.8rem 0.8rem 0rem 0rem;
+}
+
+.panes-tab {
+	font-family: Lato;
+	font-size: 1rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #ffffff;
+	cursor: pointer;
+	padding: 1rem 0.5rem 0.5rem 0.5rem;
+	margin: 0 0.5rem;
+	display: inline-block;
+}
+
+.panes-tab:hover {
+	color: #0069a2;
+}
+
+.panes-tab.selected {
+	color: #ffffff;
+	padding: 0.4rem 0.5rem 0.5rem 0.5rem;
+	background: #18676f;
+	border: 1px solid #195179;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.15em 0 rgba(0, 0, 0, 0.25), 0 0.15em 0.15em rgba(0, 0, 0, 0.05);
+	border-radius: 0.4rem;
+}
+
+.panes-content {
+	padding: 0 1.5rem 1rem 1.5rem;
+	font-family: Hind;
+	font-weight: 500;
+	font-size: 0.9rem;
+	color: #ffffff;
+}
+
+
+.pane-wiring {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+
+.pane-pins {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+
+.pane-keymap {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+.pane-keymap-key {
+	padding: 0.5rem;
+	border: 6px solid #90c7e5;
+	border-radius: 1.2rem;
+	display: inline-block;
+}
+
+.pane-keymap-configure {
+	display: inline-block;
+	text-align: left;
+}
+
+.pane-keymap-configure-button {
+	position: relative;
+	z-index: 1;
+}
+
+.pane-keymap-configure-field {
+	position: relative;
+	margin-left: 0.5rem;
+	padding: 0.5rem 0 0 1rem;
+}
+
+.pane-keymap-configure-field:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: -1rem;
+	left: 0;
+	height: 2.5rem;
+	width: 1rem;
+	border-left: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	z-index: 0;
+}
+
+.pane-keymap-selector {
+	text-align: left;
+	position: relative;
+	width: 100%;
+	max-width: 500px;
+	padding: 0.4rem;
+	box-sizing: border-box;
+	border: 1px solid #7fb6d5;
+	border-radius: 0.8rem;
+	margin-top: 0.4rem;
+	background: #75b5d7;
+	z-index: 1;
+}
+
+.pane-keymap-selector-close {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0.4rem 0.8rem;
+	font-size: 2rem;
+	color: #ff4343;
+	cursor: pointer;
+}
+
+.pane-keymap-selector-close:hover {
+	color: #ff6a5b;
+}
+
+.pane-keymap-selector-tab {
+	display: inline-block;
+	margin: 0 0.3rem;
+	padding: 0.2rem;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+.pane-keymap-selector-tab:hover {
+	color: #59a1b3;
+}
+
+.pane-keymap-selector-tab.selected {
+	color: #007d0d;
+	background: #abddf9;
+	border-radius: 0.2rem;
+}
+
+.pane-keymap-selector-buttons {
+	display: block;
+	margin-top: 0.4rem;
+}
+
+.pane-keymap-selector-buttons button {
+	min-width: 2rem;
+	margin: 0.1rem;
+}
+
+
+.pane-macros-editor-content {
+	width: 100%;
+	max-width: 500px;
+	margin: auto;
+	margin-top: 1rem;
+	border: 3px solid #90c7e5;
+	border-radius: 0.6rem;
+	overflow: hidden;
+}
+
+.pane-macros-editor-empty {
+	padding: 1rem;
+}
+
+.pane-macros-editor-action {
+	position: relative;
+	text-align: left;
+	padding: 0.4rem 1rem;
+	border-top: 3px solid #90c7e5;
+}
+
+.pane-macros-editor-action:first-child {
+	border: none;
+}
+
+.pane-macros-editor-action-up {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.pane-macros-editor-action-down {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	border-left-width: 0 !important;
+}
+
+.pane-macros-editor-action-remove {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0.6rem 1rem;
+	font-size: 1rem;
+	color: #2eff44;
+	cursor: pointer;
+}
+
+.pane-macros-editor-action-remove:hover {
+	color: #c0392b;
+}
+
+.pane-macros-editor-record {
+	position: relative;
+	z-index: 2;
+}
+
+.pane-macros-editor-record.recording {
+	border: 3px solid rgba(0, 0, 0, 0.1);;
+}
+
+.pane-macros-editor-screen {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+	cursor: initial;
+	background: rgba(0, 0, 0, 0.1);
+}
+
+
+.pane-quantum {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+.pane-quantum-editor {
+	display: inline-block;
+	width: 600px;
+	text-align: left;
+	border: 1px solid #dddddd;
+	border-radius: 0.2rem;
+	overflow: hidden;
+}
+
+.pane-quantum-editor .CodeMirror {
+	height: 400px;
+}
+
+
+.pane-settings {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+.pane-settings-list {
+	width: 100%;
+	max-width: 500px;
+	margin: auto;
+	border: 1px solid #dddddd;
+	border-radius: 0.2rem;
+	overflow: hidden;
+}
+
+.pane-settings-list-element {
+	position: relative;
+	text-align: left;
+	padding: 1rem 1rem 1rem 3rem;
+	border-top: 1px solid #dddddd;
+	font-family: Hind;
+	font-weight: 400;
+	vertical-align: middle;
+}
+
+.pane-settings-list-element i {
+	position: absolute;
+	left: 1rem;
+	top: 1.1rem;
+	font-size: 1rem;
+	vertical-align: middle;
+}
+
+.pane-settings-list-element:first-child {
+	border: none;
+}
+
+
+.pane-compile {
+	padding: 1rem 0;
+	text-align: center;
+}
+
+
+.footer {
+  z-index: 1;
+  --footer-background:#06c7a1;
+  display: grid;
+  position: relative;
+  grid-area: footer;
+  min-height: 12rem;
+  margin:5rem 0 0 0;
+}
+
+.footer .bubbles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1rem;
+  background: var(--footer-background);
+  z-index:1;
+  -webkit-filter: url("#blob");
+          filter: url("#blob");
+}
+.footer .bubbles .bubble {
+  position: absolute;
+  left: var(--position, 50%);
+  background: var(--footer-background);
+  border-radius: 100%;
+  -webkit-animation: bubble-size var(--time, 4s) ease-in infinite var(--delay, 0s), bubble-move var(--time, 4s) ease-in infinite var(--delay, 0s);
+          animation: bubble-size var(--time, 4s) ease-in infinite var(--delay, 0s), bubble-move var(--time, 4s) ease-in infinite var(--delay, 0s);
+  -webkit-transform: translate(-50%, 100%);
+          transform: translate(-50%, 100%);
+}
+.footer .content {
+  grid-template-columns: 1fr auto;
+  grid-gap: 4rem;
+  padding: 2rem;
+  background: #285245;
+  z-index: 2;
+  text-align: center;
+}
+
+body .footer .content > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+body .footer .content > div > div {
+  margin: 0.25rem 0;
+}
+body .footer .content > div > div > * {
+  margin-right: .5rem;
+}
+body .footer .content > div .image {
+  align-self: center;
+  width: 4rem;
+  height: 4rem;
+  margin: 0.25rem 0;
+  background-size: cover;
+  background-position: center;
+}
+
+@-webkit-keyframes bubble-size {
+  0%, 75% {
+    width: var(--size, 4rem);
+    height: var(--size, 4rem);
+  }
+  100% {
+    width: 0rem;
+    height: 0rem;
+  }
+}
+
+@keyframes bubble-size {
+  0%, 75% {
+    width: var(--size, 4rem);
+    height: var(--size, 4rem);
+  }
+  100% {
+    width: 0rem;
+    height: 0rem;
+  }
+}
+@-webkit-keyframes bubble-move {
+  0% {
+    bottom: -4rem;
+  }
+  100% {
+    bottom: var(--distance, 10rem);
+  }
+}
+@keyframes bubble-move {
+  0% {
+    bottom: -4rem;
+  }
+  100% {
+    bottom: var(--distance, 10rem);
+  }
+}
